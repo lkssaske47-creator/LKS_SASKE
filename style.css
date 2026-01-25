@@ -1,18 +1,4 @@
 
-.main-title {
-  text-align: center;
-  font-size: 38px;          /* not too big */
-  font-weight: 800;
-  font-family: "Segoe UI", Arial, sans-serif;
-  color: #ffffff;
-  margin: 22px 0;
-
-  /* GLOW EFFECT */
-  text-shadow:
-    0 0 4px #ff0000,
-    0 0 8px rgba(255, 0, 0, 0.8),
-    0 0 16px rgba(255, 0, 0, 0.6);
-}
 
 .main-title,
 .main-title * {
