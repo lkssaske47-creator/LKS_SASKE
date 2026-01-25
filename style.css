@@ -1,3 +1,29 @@
+html {
+    font-size: 16px;
+}
+
+body {
+    font-size: 16px;
+    line-height: 1.6;
+}
+h1 { font-size: 2em; }
+h2 { font-size: 1.5em; }
+b, p, a { font-size: 1em; }
+
+a img {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+main img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+
 
 
 .main-title,
